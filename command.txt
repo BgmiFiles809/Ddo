@@ -1,0 +1,23 @@
+1 - gcc -o bgmi bgmi.c -lpthread
+
+2 - ./bgmi ip port time thread 
+
+3 - ai prompt - "
+"""""""""""""""""""""
+I will give you hexadecimal and you will give me in \x format. 
+
+Like if I will give you "A7 BG 6U 7U" so you will convert it to "\xA7\xBG\x6U\x7U"
+
+Remove the new line also
+
+Like convert -  24 6C AD FF FF EB 61 94 
+53 9A 0F BA 4B 91 CD F5 
+04 98 16 07 1C 7F C1 81 
+29 34 EB
+""""”"""""""""""""""""
+
+@WHITEWOLFMOD
+
+@WHITEWOLFMOD
+
+@WHITEWOLFMOD
